@@ -1,3 +1,3 @@
-# Computer-Vision-I
+# Computer Vision Course
 
-A list of exercises for the Computer Vision course. 
+A list of exercises for the Computer Vision course.
