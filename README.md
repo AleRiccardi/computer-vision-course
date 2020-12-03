@@ -1,3 +1,3 @@
 # Computer-Vision-I
-Exercises for my master degree Computer Vision 1 module.
 
+A list of exercises for the Computer Vision course. 
